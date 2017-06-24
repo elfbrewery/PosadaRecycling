@@ -1,0 +1,17 @@
+body {background-color:gray;}
+div {color:yellow; font-size:110%}
+h3 {text-align:center; font-family:Arial; color:yellow}
+h4 {text-align:center; font-family:Arial; color:yellow}
+h1 {text-align:center; font-family:Arial; color:yellow}
+h2 {text-align:center; font-family:Arial; color:yellow}
+a:link {color:pink}      /* unvisited link */
+a:visited {color:cyan}  /* visited link */
+a:hover {color:red}  /* mouse over link */
+a:active {color:green}  /* selected link */
+IMG.displayed {
+	border-width:20;
+	border-style:solid;
+	border-color:white;
+	display: block;
+	margin-left: auto;
+	margin-right: auto }
